@@ -50,8 +50,8 @@ AND DISABLE KEY IN PREFERENCES TOO IT IS VERY INSECURE!!!! it shows an option wi
 # LEGAL
 The licence on this software FORBIDS you from holding me liable for your legal or illegal actions while using this.
 (basically if you ddos the bank of london or smn with this you can't say "well i got it off this guy he should be arrested or held accountable for this i am innocent I swear!!")
-
-Only use the botnet with STRICT PERMISSION GIVEN by the targetif you do it anyway it is illegal
+ 
+Only use the botnet with STRICT PERMISSION GIVEN by the target if you do it anyway it is illegal
 (i will not condone any illegal actions with this software and if required by law for an investigaion data gathered about you may be given too the authorities. AND I CAN NOT STRESS THIS ENOUGH I AM NOT LIABLE FOR ANYTHING AND I MEAN ANYTHING DONE WITH THIS)
 
 # Bugs/Pull Requests
