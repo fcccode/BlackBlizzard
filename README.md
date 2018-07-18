@@ -21,7 +21,7 @@ Or get someone stupid enough too download and run the exe (too bypass antiviruse
 
 # Help
 
-You need a webserver with php and mysql support (php 5.5 and below a port would be greatly appreciated!)
+You need a webserver with php and mysql support (php 5.5 and below, a port for higher versions would be greatly appreciated!)
 
 
 The configuration file is config.php
