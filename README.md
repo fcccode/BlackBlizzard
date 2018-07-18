@@ -11,7 +11,7 @@ The work you will find here is not enirely original, some parts have been taken 
 
 FOR SETUP HELP GOTO THE HELP SECTION
 
-Do not upload this on any webhosting service like InifnityFree or that otherone that people use (the account will be terminated)
+Do not upload this on any webhosting service like InfinityFree or that otherone that people use (the account will be terminated)
 I can confirm this works on a free hosting account from x10hosting.com but if we abuse this they will add detection or smn.
 
 There are 2 methods of getting bots
