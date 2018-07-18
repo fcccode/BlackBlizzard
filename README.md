@@ -41,8 +41,8 @@ ONLY ONCE YOU HAVE DONE THIS CAN YOU PROCEED TO BELOW
 
 too login goto your urls botnet directory (eg: yoururl.com/Botnet) then do /login (eg: yoururl.com/Botnet/login)
 default pass and user is 
-USER : Root
-PASS : TOOR
+USER : root (lowercase)
+PASS : toor (lowercase)
 Once logged in change it in preferences
 AND DISABLE KEY IN PREFERENCES TOO IT IS VERY INSECURE!!!! it shows an option with a think like login/?key= yea disable that thing!!
 
