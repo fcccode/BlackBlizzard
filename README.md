@@ -6,6 +6,8 @@ The work you will find here is not enirely original, some parts have been taken 
 "mixed" too form this, is an original combination.
 (some parts are original)
 
+THE SOLE ORIGINAL PURPOSE OF THIS SOFTWARE WAS AND IS TO BE ABLE TO LET PEOPLE LEARN AND EXPERIMENT IT IS NOT HERE FOR THE PURPOSE OF COMMITING ILLEGAL ACTIONS
+
 # Info
 (Help will not be given to little skids who think it is cool 2 has a kewl botnet but need help on how 2 setup ehehehhehehehehee)
 
